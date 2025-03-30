@@ -1,4 +1,4 @@
-# ledger-thorchain-go
+# ledger-go
 
 Forked from ledger-cosmos-go
 
